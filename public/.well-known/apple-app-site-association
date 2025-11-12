@@ -3,7 +3,8 @@
 		"apps": [
 			"94KV3E626L.aws.amplify.hsinghvq.PentestApp",
 			"P6RXV5N629.aws.amplify.hsinghvq.PentestApp",
-			"JUEX9M255N.aws.amplify.hsinghvq.AuthenticatorPasswordlessTestApp"
+			"JUEX9M255N.aws.amplify.hsinghvq.AuthenticatorPasswordlessTestApp",
+			"FW7F9SP7S7.aws.amplify.hsinghvq.AuthenticatorPasswordlessTestApp"
 		]
 	}
 }
